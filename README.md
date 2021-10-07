@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavisharma810&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavisharma810" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Frontent Web Development**
 
 - 📝Read my articles here - [https://dev.to/vaishnavisharma10_](https://dev.to/vaishnavisharma10_)
 
