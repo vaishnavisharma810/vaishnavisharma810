@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 📝 Read my articles here [https://dev.to/vaishnavisharma10_](https://dev.to/vaishnavisharma10_)
+<!-- - 📝 Read my articles here [https://dev.to/vaishnavisharma10_](https://dev.to/vaishnavisharma10_) -->
 
 - 📫 How to reach me **vaishnavisharma137@gmail.com**
 
