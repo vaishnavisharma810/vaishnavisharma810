@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavisharma810&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavisharma810" /> </p>
 
-- 🌱 I’m currently exploring ****
+<!--  - 🌱 I’m currently learning **F**-->
 
 <!-- - 📝 Read my articles here [https://dev.to/vaishnavisharma10_](https://dev.to/vaishnavisharma10_) -->
 
-- 📫 How to reach me **vaishnavisharma137@gmail.com**
+<!-- - 📫 How to reach me **vaishnavisharma137@gmail.com**-->
 
-- ⚡ Fun fact **I think I am Funny XD**
+<!-- - ⚡ Fun fact **I think I am Funny XD** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
